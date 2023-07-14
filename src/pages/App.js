@@ -2,8 +2,8 @@ import FormDiv from "./components/FormDiv.js";
 import "./App.css";
 
 const data = {
-  name: "name",
-  email: "email",
+  name: "姓名：",
+  email: "信箱：",
 };
 
 function App() {
