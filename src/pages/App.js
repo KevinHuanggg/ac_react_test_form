@@ -1,5 +1,6 @@
 import FormDiv from "./components/FormDiv.js";
 import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const data = {
   name: "姓名：",
