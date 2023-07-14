@@ -1,4 +1,4 @@
-import FormLine from "./components/FormLine.js";
+import FormLine from "./components/FormDiv.js";
 import "./App.css";
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>My First React Form</h1>
-        <FormLine />
+        <FormDiv />
       </header>
     </div>
   );

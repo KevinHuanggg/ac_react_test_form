@@ -1,4 +1,4 @@
-export default function FormLine() {
+export default function FormDiv() {
   return (
     <form className="formContainer" action="">
       <label htmlFor="name">Name:</label>
